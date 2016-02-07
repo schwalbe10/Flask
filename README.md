@@ -1,6 +1,1 @@
-# Flask Application
-
-Start the app by running:
-
-    python app.py
-
+Description is [here]: http://thinkage.info/develop-a-web-application-with-flask
